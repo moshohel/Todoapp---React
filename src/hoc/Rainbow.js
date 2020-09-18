@@ -1,3 +1,4 @@
+// Higher order components
 import React from 'react'
 
 const Rainbow = (WrappedComponent) => {
